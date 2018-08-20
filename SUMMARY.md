@@ -1,6 +1,5 @@
 # SOMMAIRE
 
-* [Readme](README.md)
 * [Introduction](introduction.md)
 * [1. Présentation générale](1.-presentation/README.md)
   * [1.1 FullStack - Définition](1.-presentation/1.1-fullstack-definition.md)
