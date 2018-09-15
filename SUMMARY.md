@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [Introduction générale](README.md)
 * [Introduction](introduction.md)
 * [1. Présentation générale](1.-presentation-generale/README.md)
   * [1.1 FullStack - Définition](1.-presentation-generale/1.1-fullstack-definition.md)
