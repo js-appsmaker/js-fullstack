@@ -8,7 +8,7 @@
 * [2. Mise en place](2.-mise-en-place/README.md)
   * [2.1 Installation](2.-mise-en-place/2.1-installation.md)
   * [2.2 Pré-requis](2.-mise-en-place/2.2-pre-requis.md)
-  * [2.3 Line de commande](2.-mise-en-place/2.3-line-de-commande.md)
+  * [2.3 Ligne de commande](2.-mise-en-place/2.3-line-de-commande.md)
   * [2.4 Outils du navigateur](2.-mise-en-place/2.4-outils-du-navigateur.md)
   * [2.5 Git](2.-mise-en-place/2.5-git.md)
 * [3. Node.js](3.-node.js/README.md)
